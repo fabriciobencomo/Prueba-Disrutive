@@ -69,9 +69,9 @@ const InvestmentSimulator = () => {
   return (
     <div className="h-screen flex items-center justify-center poppins-light">
       <div className="hidden lg:block w-1/2 h-screen">
-        <div className="bg-[url(./bghuman.png)] cover h-screen flex items-center justify-center"/>
+        <div className="bg-[url(https://res.cloudinary.com/dn9tqveha/image/upload/v1743715561/Texto_r8be49.png)] cover h-screen flex items-center justify-center"/>
       </div> 
-      <div className="w-full lg:w-1/2 h-screen flex flex-col items-center justify-center bg-gray-100 gap-4 bg-[url(./fondo.png)] bg-cover">
+      <div className="w-full lg:w-1/2 h-screen flex flex-col items-center justify-center bg-gray-100 gap-4 bg-[url(https://res.cloudinary.com/dn9tqveha/image/upload/v1743715558/bg-green_1_enunpa.png)] bg-cover">
         <h1 className="font-bold text-4xl text-white text-center poppins-extrabold">
           Invierte Tu Dinero <br/><span className="text-yellow-200">Con Nosotros</span>
         </h1>
