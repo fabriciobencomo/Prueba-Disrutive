@@ -1,4 +1,4 @@
-import { OptionTime } from '../data/options/optionsPlazo';
+import { OptionTime } from "../../data/options/optionsPlazo";
 
 interface InvestmentOptionsProps {
   options: OptionTime[],

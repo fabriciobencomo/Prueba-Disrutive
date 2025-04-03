@@ -2,7 +2,7 @@ import { render } from "@testing-library/react";
 import { fireEvent, screen } from "@testing-library/dom";
 import { describe, it, expect } from "vitest";
 import React from "react";
-import InvestmentSimulator from '../../src/App';
+import InvestmentSimulator from '../../src/InvestementSimulator';
 import "@testing-library/jest-dom";
 
 describe("InvestmentSimulator", () => {
